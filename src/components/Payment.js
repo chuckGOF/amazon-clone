@@ -108,9 +108,9 @@ function Payment() {
 						<p>
 							<strong>{user?.name}</strong>
 						</p>
-						<p>7 Yellow Clay Manor</p>
-						<p>Commons Road, Navan</p>
-						<p>County Meath</p>
+						<p>10 Eugene Street</p>
+						<p>Saint Catherine's</p>
+						<p>County Dublin</p>
 					</div>
 				</div>
 
